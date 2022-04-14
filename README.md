@@ -4,7 +4,7 @@ Este proyecto esta generado con [Angular CLI](https://github.com/angular/angular
 
 # Empezar
 
-## Prerequisites
+## Prerequisitos
 
 - Instale [Node.js] que incluye [Node Package Manager][npm]
 - Instale [Angular CLI](https://github.com/angular/angular-cli) versión 12.\*
