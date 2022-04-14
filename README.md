@@ -2,6 +2,10 @@
 
 Este proyecto esta generado con [Angular CLI](https://github.com/angular/angular-cli) versión 12.1.1 y esta pensado para manejar temas(light/dark) así como colores (purple, green, pink) está a su disposición para que los usen y adapten a sus proyectos o a mero uso de aprendizaje, si existe una mejor manera de hacerlo por favor háganlo saber así aprendemos todos, gracias.
 
+## Video demostrativo
+
+[Theme-Color-Css-Angular-Tutorial](https://youtu.be/GPA3OU7HRf8)
+
 # Empezar
 
 ## Prerequisitos
