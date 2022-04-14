@@ -1,27 +1,33 @@
-# PracticaCssAngular
+# Theme-Color-Css-Angular-Tutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Este proyecto esta generado con [Angular CLI](https://github.com/angular/angular-cli) versión 12.1.1 y esta pensado para manejar temas(light/dark) así como colores (purple, green, pink) está a su disposición para que los usen y adapten a sus proyectos o a mero uso de aprendizaje, si existe una mejor manera de hacerlo por favor háganlo saber así aprendemos todos, gracias.
 
-## Development server
+# Empezar
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Prerequisites
 
-## Code scaffolding
+- Instale [Node.js] que incluye [Node Package Manager][npm]
+- Instale [Angular CLI](https://github.com/angular/angular-cli) versión 12.\*
+- Instale [Git]
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Clonar el repositorio
 
-## Build
+```shell
+git clone https://github.com/YueYuuta/Theme-Color-Css-Angular-Tutorial.git
+cd Theme-Color-Css-Angular-Tutorial
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Instalación
 
-## Running unit tests
+El proyecto no necesita mas paquetes o librerías externas a mas de las que viene por defecto en cualquier proyecto Angular.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```shell
+npm install
+npm start
+```
 
-## Running end-to-end tests
+Navegar a `http://localhost:4200/`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[node.js]: https://nodejs.org/
+[npm]: https://www.npmjs.com/get-npm
+[git]: https://git-scm.com/
